@@ -1,0 +1,1 @@
+My 19th assignment! The goal of this one was to set up a database with two tables, one for members of a gym and the other their scheduled workout information. Within this repository I include the script as well as resulting tables exported into csv format from MySQL. 
